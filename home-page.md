@@ -25,8 +25,10 @@ An optional parameter allows for the use of US Customary, Metric bara or Metric 
 
 In addition, the program provides 120 partial derivative functions for these thermodynamic properties, which are only available using SI units.
 
-Refer to the [Help page](https://h2othermo.com/help/) for detailed information on how to use the H2o Thermodynamic Properties Excel Add-In.
+Refer to the [The Basics page](https://h2othermo.com/home-page/the_basics/) for detailed information on how to use the H2o Thermodynamic Properties Excel Add-In.
 
-Refer to the [Functions page](https://h2othermo.com/functions/) for a list of all of the thermodynamic functions along with specific details on those individual functions.
+Refer to the [Primary Functions page](https://h2othermo.com/functions/) for a list of all of the primary thermodynamic functions along with specific details on those individual functions.
+
+Refer to the [Derivative Functions page](https://h2othermo.com/functions/) for a list of all of the derivative thermodynamic functions along with specific details on those individual functions.
 
 **We hope you will find this Excel Add-In of great use and value**!
