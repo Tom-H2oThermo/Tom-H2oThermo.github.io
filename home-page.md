@@ -27,8 +27,6 @@ In addition, the program provides 120 partial derivative functions for these the
 
 Refer to the [The Basics page](https://h2othermo.com/home-page/the_basics/) for detailed information on how to use the H2o Thermodynamic Properties Excel Add-In.
 
-Refer to the [Primary Functions page](https://h2othermo.com/home-page/primary_functions/) for a list of all of the primary thermodynamic functions along with specific details on those individual functions.
-
-Refer to the [Derivative Functions page](https://h2othermo.com/home-page/derivative_functions/) for a list of all of the derivative thermodynamic functions along with specific details on those individual functions.
+In addition, please refer to the [Primary Functions page](https://h2othermo.com/home-page/primary_functions/) for a list of all of the primary thermodynamic functions along with specific details on those individual functions.
 
 **We hope you will find this Excel Add-In of great use and value**!
