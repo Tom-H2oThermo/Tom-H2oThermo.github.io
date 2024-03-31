@@ -104,10 +104,6 @@ H2oThermo LLC reserves the right, in its sole discretion, to change the Terms un
 
 H2oThermo LLC welcomes your questions or comments regarding the Terms:
 
-H2oThermo LLC  
-340 Tendoy Street  
-Bellevue, Idaho 83313
-
 Email Address:  
 tom@H2oThermo.com
 
