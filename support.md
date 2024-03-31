@@ -1,6 +1,6 @@
 ---
 title: 'support'
-permalink: /Support/
+permalink: /home-page/support/
 has_toc: false
 nav_exclude: true
 ---
