@@ -9,7 +9,7 @@ permalink: /home-page/examples/
 has_toc: false
 ---
 
-The H2oThermo Excel Add-In has extensive capabilities for all the water and steam thermodynamic and transport properties. The following pages are graphical examples of what can be done with the program.
+The H2oThermo Thermodynamic Properties for Excel Add-In has extensive capabilities for all the water and steam thermodynamic and transport properties. The following pages are graphical examples of what can be done with the program.
 
 - [Evaporative Cooling](/examples/evaporative-cooling/)
 - [Temperature Entropy Diagram](/examples/temperature-entropy-diagram/)

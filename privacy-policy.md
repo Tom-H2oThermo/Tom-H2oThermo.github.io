@@ -14,7 +14,7 @@ permalink: /home-page/privacy-policy/
 
 ## General
 
-Protecting you private information is our priority. This Statement of Privacy applies to Thermodynamic Properties for Water &amp; Steam Excel Add-In, and H2oThermo LLC and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to H2oThermo LLC include https://H2oThermo.com and H2oThermo.com. The H2oThermo.com LLC application is a thermodynamic properties for water and steam Excel add-in application. By using the H2oThermo LLC application, you consent to the data practices described in this statement.
+Protecting you private information is our priority. This Statement of Privacy applies to Thermodynamic Properties for Excel Add-In, and H2oThermo LLC and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to H2oThermo LLC include https://H2oThermo.com and H2oThermo.com. The H2oThermo.com LLC application is a thermodynamic properties for water and steam for Excel add-in application. By using the H2oThermo LLC application, you consent to the data practices described in this statement.
 
 ## Collection of Personal Information
 

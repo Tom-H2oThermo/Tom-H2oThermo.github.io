@@ -24,7 +24,7 @@ THe H2O Steam Properties program is based upon the International Association for
 
 ## Using the H2oProperties Functions
 
-All of the primary H2oProperties functions begin with “= H2o.” (upper or lower case). A list of the available H2oProperties functions will be shown. Excel Intellisense provides guidance to the user as the function is entered.
+All of the primary H2oProperties functions begin with “= H2o.” (upper or lower case). A list of the available H2oProperties functions will be shown.  Intellisense provides guidance to the user as the function is entered.
 
 ![image](/assets/images/About1.png) <br>
 
