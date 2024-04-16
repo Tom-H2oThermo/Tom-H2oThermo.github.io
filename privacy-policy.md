@@ -10,7 +10,7 @@ permalink: /home-page/privacy-policy/
 
 ## Who we are
 
-**Sites:** Our website address is: https://h2othermo.com. Our product, Water &amp; Steam Properties for Excel Add-In is marketed and paid for through the Microsoft App Store. In general, our website does not collect or store any of your personal information.
+**Sites:** Our website address is: https://h2othermo.com. In general, our website does not collect or store any of your personal information.
 
 ## General
 
@@ -24,7 +24,7 @@ In order to better provide you with products and services offered, H2oThermo LLC
 - E-Mail Address
 - Employer
 
-We do not collect any personal information about you unless you voluntarily provide it to us. However, you may be require to provide certain personal information to us when you elect to use certain products or services. These may include: (a) registering for an account; (b) sending us an email message; (c) submitting your credit card or other payment information to the Microsoft AppSource when purchasing products or services. To wit, we will use your information for, but not limited to, communication with you in relation to services and/or products you have requested from us. We also may gather additional personal or non-personal information in the future.
+We do not collect any personal information about you unless you voluntarily provide it to us. However, you may be require to provide certain personal information to us when you elect to use certain products or services. These may include: (a) registering for an account; (b) sending us an email message; (c) submitting your credit card or other payment information when purchasing products or services. To wit, we will use your information for, but not limited to, communication with you in relation to services and/or products you have requested from us. We also may gather additional personal or non-personal information in the future.
 
 ## Use of your Personal Information
 
