@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Water & Steam Thermodynamic Properties for Excel
+title: Thermodynamic Properties for Excel Add-In
 email: tom@h2othermo.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site provides help support documentation for the
-  H2oThermo Excel Add-in functions
+  H2oThermo Thermodynamic Properties for  Add-in functions
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://H2oThermo.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
